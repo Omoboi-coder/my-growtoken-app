@@ -70,7 +70,7 @@ const RightActivity = () => {
 
                 {/* Second Row */}
                 <div className='bg-white relative h-[60px] p-2 rounded-[20px]'>
-                  <div className='flex flex-row justify-between ml-6 text-[16px] w-[630px] h-[48px]'>
+                  <div className='flex flex-row justify-between ml-6 text-[16px] text-[#000019] w-[630px] h-[48px]'>
                     <div className='flex flex-col space-y-2 justify-center w-[214px] h-[48px]'>
                       <p> 
                         Sugar-Cane Farm Investment
@@ -97,7 +97,7 @@ const RightActivity = () => {
 
                 {/* Third Row */}
                 <div className='bg-white relative h-[60px] p-2 rounded-[20px]'>
-                  <div className='flex flex-row justify-between ml-6 text-[16px] w-[606px] h-[48px]'>
+                  <div className='flex flex-row justify-between ml-6 text-[16px] text-[#000019] w-[606px] h-[48px]'>
                     <div className='flex flex-col space-y-2 justify-center w-[214px] h-[48px]'>
                       <p> 
                         Sugar Processing Investment
@@ -124,7 +124,7 @@ const RightActivity = () => {
 
                 {/* Fourth Row */}
                 <div className='bg-white relative h-[60px] p-2 rounded-[20px]'>
-                  <div className='flex flex-row justify-between ml-6 text-[16px] w-[623px] h-[48px]'>
+                  <div className='flex flex-row justify-between ml-6 text-[16px] text-[#000019] w-[623px] h-[48px]'>
                     <div className='flex flex-col space-y-2 justify-center w-[214px] h-[48px]'>
                       <p> 
                         Cassava Farm Investment
@@ -151,7 +151,7 @@ const RightActivity = () => {
 
                 {/* Fifth Row */}
                 <div className='bg-white relative h-[60px] p-2 rounded-[20px]'>
-                  <div className='flex flex-row justify-between ml-6 text-[16px] w-[614px] h-[49px]'>
+                  <div className='flex flex-row justify-between ml-6 text-[16px] text-[#000019] w-[614px] h-[49px]'>
                     <div className='flex flex-col space-y-2 justify-center w-[214px] h-[48px]'>
                       <p> 
                         Farm Health Insurance
@@ -219,7 +219,7 @@ const RightActivity = () => {
 
                 {/* Second Row */}
                 <div className='bg-white relative h-[60px] p-2 rounded-[20px]'>
-                  <div className='flex flex-row justify-between ml-6 text-[16px] w-[630px] h-[48px]'>
+                  <div className='flex flex-row justify-between ml-6 text-[16px] text-[#000019] w-[630px] h-[48px]'>
                     <div className='flex flex-col space-y-2 justify-center w-[214px] h-[48px]'>
                       <p> 
                         Sugar-Cane Farm Investment
@@ -246,7 +246,7 @@ const RightActivity = () => {
 
                 {/* Third Row */}
                 <div className='bg-white relative h-[60px] p-2 rounded-[20px]'>
-                  <div className='flex flex-row justify-between ml-6 text-[16px] w-[606px] h-[48px]'>
+                  <div className='flex flex-row justify-between ml-6 text-[16px] text-[#000019] w-[606px] h-[48px]'>
                     <div className='flex flex-col space-y-2 justify-center w-[214px] h-[48px]'>
                       <p> 
                         Sugar Processing Investment
@@ -273,7 +273,7 @@ const RightActivity = () => {
 
                 {/* Fourth Row */}
                 <div className='bg-white relative h-[60px] p-2 rounded-[20px]'>
-                  <div className='flex flex-row justify-between ml-6 text-[16px] w-[623px] h-[48px]'>
+                  <div className='flex flex-row justify-between ml-6 text-[16px] text-[#000019] w-[623px] h-[48px]'>
                     <div className='flex flex-col space-y-2 justify-center w-[214px] h-[48px]'>
                       <p> 
                         Cassava Farm Investment
@@ -300,7 +300,7 @@ const RightActivity = () => {
 
                 {/* Fifth Row */}
                 <div className='bg-white relative h-[60px] p-2 rounded-[20px]'>
-                  <div className='flex flex-row justify-between ml-6 text-[16px] w-[614px] h-[49px]'>
+                  <div className='flex flex-row justify-between ml-6 text-[16px] text-[#000019] w-[614px] h-[49px]'>
                     <div className='flex flex-col space-y-2 justify-center w-[214px] h-[48px]'>
                       <p> 
                         Farm Health Insurance

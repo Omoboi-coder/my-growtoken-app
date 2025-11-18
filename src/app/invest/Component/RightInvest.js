@@ -5,7 +5,7 @@ import MobileInvestment from './MobileInvestment'
 
 const RightInvest = () => {
 
-     const router = useRouter()
+    const router = useRouter()
 
   const handleInvestClick = (investmentType) => {
     router.push(`/invest/${investmentType.toLowerCase().replace(/\s+/g, '-')}`)
